@@ -11,3 +11,5 @@ These are useful for feeding into Large Language Models (LLMs) like Gemini for b
 ## Contributing
 
 You can contribute by adding more chapters or improving existing ones to help complete the collection. Just submit a pull request!
+(As I'm adding new chapters only when I use it.)
+You can refer to [pdftomarkdown script](https://gist.github.com/TanishkBansode/ad16a84d6f6a69193d7ae51e84c7506a) to convert pdf files to markdown as a starting point.
