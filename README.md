@@ -1,4 +1,4 @@
-# HSC-Balbharti Markdown Files
+# hsc-balbharti-md
 
 Markdown files for chapters from HSC-Balbharti (currently Class 12).  
 These are useful for feeding into Large Language Models (LLMs) like Gemini for better understanding and context.
