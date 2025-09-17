@@ -59,40 +59,6 @@ Secondary or tertiary amines are named as N-substituted derivatives of primary a
 
 ---
 
-### Remember...
-The name of amine (common or IUPAC) is always written as one word. For example: C₂H₅-NH₂ Ethylamine (Ethanamine)
-
----
-
-### Try this...
-Draw possible structures of all the isomers of C₄H₁₁N. Write their common as well as IUPAC names.
-
----
-
-## 13.3 Preparation of Amines :
-
-**13.3.1 : By ammonolysis of alkyl halides :**
-
-When alkyl halide is heated with alcoholic solution of excess ammonia it undergoes nucleophilic substitution reaction in which the halogen atom is replaced by an amino (-NH₂) group to form primary amine. This process of breaking of C-X bond by ammonia is known as ammonolysis. The reaction is also known as alkylation of ammonia. The reaction is carried out in a sealed tube at 373 K. It may be noted that the primary amine obtained in the 1st step is stronger nucleophile than ammonia. Hence, it further reacts with alkyl halide to form secondary and tertiary amines and finally quaternary ammonium salt if NH₃ is not used in large excess.
-
-R-X + NH₃(alc). (excess) --Δ--> R-NH₂ (1º amine)
-
-The order of reactivity of alkyl halides with ammonia is R-I > R-Br > R-Cl.
-
----
-
-### Use your brain power
-*   Write chemical equations for
-    1.  reaction of alc. NH₃ with C₂H₅I.
-    2.  Ammonolysis of benzyl chloride followed by the reaction with two moles of CH₃-I.
-*   Why is ammonolysis of alkyl halide not a suitable method for the preparation of primary amine ?
-
----
-<div align="center">283</div>
-
----
----
-
 **Table 13.2 : Common and IUPAC names of some alkyl and arylamines**
 
 | Amines | Common names | IUPAC names |
@@ -120,6 +86,38 @@ The order of reactivity of alkyl halides with ammonia is R-I > R-Br > R-Cl.
 | CH₃-N(C₂H₅)(C₃H₇) | Ethylmethyln-propylamine | N-Ethyl-N-methyl propan-1-amine |
 | C₂H₅-N(CH₃)(CH(CH₃)₂) | Ethylmethylisopropylamine | N-Ethyl-N-methyl propan-2-amine |
 | C₆H₅-N(CH₃)₂ | N, N-Dimethylaniline | N, N-Dimethylbenzenamine |
+---
+<div align="center">283</div>
+
+---
+---
+### Remember...
+The name of amine (common or IUPAC) is always written as one word. For example: C₂H₅-NH₂ Ethylamine (Ethanamine)
+
+---
+
+### Try this...
+Draw possible structures of all the isomers of C₄H₁₁N. Write their common as well as IUPAC names.
+
+---
+
+## 13.3 Preparation of Amines :
+
+**13.3.1 : By ammonolysis of alkyl halides :**
+
+When alkyl halide is heated with alcoholic solution of excess ammonia it undergoes nucleophilic substitution reaction in which the halogen atom is replaced by an amino (-NH₂) group to form primary amine. This process of breaking of C-X bond by ammonia is known as ammonolysis. The reaction is also known as alkylation of ammonia. The reaction is carried out in a sealed tube at 373 K. It may be noted that the primary amine obtained in the 1st step is stronger nucleophile than ammonia. Hence, it further reacts with alkyl halide to form secondary and tertiary amines and finally quaternary ammonium salt if NH₃ is not used in large excess.
+
+R-X + NH₃(alc). (excess) --Δ--> R-NH₂ (1º amine)
+
+The order of reactivity of alkyl halides with ammonia is R-I > R-Br > R-Cl.
+
+---
+
+### Use your brain power
+*   Write chemical equations for
+    1.  reaction of alc. NH₃ with C₂H₅I.
+    2.  Ammonolysis of benzyl chloride followed by the reaction with two moles of CH₃-I.
+*   Why is ammonolysis of alkyl halide not a suitable method for the preparation of primary amine ?
 
 ---
 <div align="center">284</div>
